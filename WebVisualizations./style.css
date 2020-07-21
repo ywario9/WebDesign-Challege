@@ -1,0 +1,10 @@
+.imageNav-photo {
+    width: 140px;
+    /* Box-model */
+    height: 140px;
+  }
+
+#description-image{
+  width: 200px;
+  height: 200px;
+}
